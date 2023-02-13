@@ -4,6 +4,10 @@ The ipynb notebook of my attempt to challenge kaggle competition.
 
 kaggleデータセットを用いた自主学習で作成したノートブックを保存しています。
 
+随時追加予定です。
+
+### 各ノートブックの概要
+
 |title  |summary
 |--|--
 |Mechanisms of Action(MoA) Prediction  |薬剤の生物学的活性データから作用機序を予測するモデルを作成した。
